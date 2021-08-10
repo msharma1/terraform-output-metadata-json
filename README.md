@@ -1,3 +1,12 @@
+Scope of documentation - 
+  - The current file README.md covers TASK 1 that is setting  up the AWS Cloud infrastructure
+  using Terraform as Infrastructure as code solution
+  - This document covers the infrastructure architecture
+  - And also the outputs that will be captured as JSON in TASK 2
+
+There are two more README files that will follow.
+One for TASK 2 and one for TASK 3
+
 # AWS VPC Creation with Terraform
 This project will create a VCP with Internet Gateway, subnets accross 2 AZs: one public
 and one one private.
